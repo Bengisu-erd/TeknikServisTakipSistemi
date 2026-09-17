@@ -1,0 +1,6 @@
+1001|bengisu|05446245696|bilgisayar|klavye bozuk|07.09.2026|2000|Teslim Edildi
+1002| zeynep|05632365489|telefon |kamera bozuk|07.09.2026|2500|Tamamlandi
+1003|beyza bengisu|05239615487|tablet|ekran catlak|07.09.2026|1000|Bekliyor
+1004|kadir|05356859232|telefon|telefon simi gormuyor|07.09.2026|1400|Bekliyor
+1005|ozlem|05446247810|bilgisayar|ekran açılmıyor|07.09.2026|6000|Bekliyor
+1006|zeynep inci|05231235896|tablet|ekran kırık|07.09.2026|3000|İslemde
