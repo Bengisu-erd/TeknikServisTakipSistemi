@@ -4,7 +4,7 @@ Bu proje, bir teknik servisteki cihaz kayıtlarını, müşteri bilgilerini ve i
 
 ---
 
-## 📌 Özellikler
+##  Özellikler
 
 - **Yeni Kayıt Oluşturma:** Müşteri adı, iletişim bilgisi, cihaz türü, arıza tanımı ve tahmini ücret bilgilerini alarak otomatik artan kayıt numarasıyla yeni servis kaydı açar.
 - **Tüm Kayıtları Listeleme:** Sistemde kayıtlı olan tüm servis işlemlerini detaylı bir şekilde ekrana döker.
@@ -17,7 +17,7 @@ Bu proje, bir teknik servisteki cihaz kayıtlarını, müşteri bilgilerini ve i
 
 ---
 
-## 🛠️ Teknolojiler
+##  Teknolojiler
 
 - **Dil:** C# (.NET)
 - **Tür:** Console Application
@@ -25,7 +25,7 @@ Bu proje, bir teknik servisteki cihaz kayıtlarını, müşteri bilgilerini ve i
 
 ---
 
-## 🚀 Kurulum ve Çalıştırma
+##  Kurulum ve Çalıştırma
 
 Projeyi yerel makinenizde çalıştırmak için:
 
@@ -43,7 +43,7 @@ Projeyi yerel makinenizde çalıştırmak için:
 
 ---
 
-## 📂 Dosya Yapısı (Veri Formatı)
+##  Dosya Yapısı (Veri Formatı)
 
 Kayıtlar `servis_kayitlari.txt` dosyasında şu biçimde tutulur:
 ```text
